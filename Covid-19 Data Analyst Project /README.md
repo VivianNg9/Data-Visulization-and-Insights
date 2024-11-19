@@ -1,4 +1,6 @@
-# COVID-19 in Australia: Data-Driven Insights for Public Health Decisions
+# HARNESSING COVID-19 PUBLIC DATA FOR INFORMED HEALTH DECISIONS IN AUSTRALIA
+
+
 
 This project focuses on using public data to analyze and understand the trajectory of the COVID-19 pandemic in Australia and its global context. It provides actionable insights to inform health policy and strategic decision-making. Key methodologies include descriptive analysis, clustering, correlation studies, hypothesis testing, and vaccination impact assessment.
 ### Key Features:
